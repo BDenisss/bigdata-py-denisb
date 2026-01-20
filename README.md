@@ -1,6 +1,6 @@
 # Big Data - Pipeline ELT & Analytics Dashboard
 
-Projet Big Data M2 - Pipeline ELT avec orchestration Prefect, stockage MinIO, base NoSQL MongoDB, API FastAPI et Dashboard Streamlit.
+Projet Big Data en M2 IWID à l'IIM - Pipeline ELT avec orchestration Prefect, stockage MinIO, base NoSQL MongoDB, API FastAPI et Dashboard Streamlit.
 
 ## 📋 Architecture du projet
 
@@ -189,3 +189,4 @@ docker-compose down -v
 ## 👤 Auteur
 
 Denis BUCSPUN - M2 IWID
+
