@@ -1,0 +1,79 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+
+# =========================
+# Environnements virtuels
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# Variables d'environnement (SENSIBLE!)
+# =========================
+.env
+.env.local
+*.env
+
+# =========================
+# IDE / Editeurs
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# Données locales (trop volumineuses pour Git)
+# =========================
+data/database/
+*.db
+*.sqlite
+
+# =========================
+# Docker
+# =========================
+docker-compose.override.yml
+.docker/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Prefect
+# =========================
+.prefect/
+
+*.rar
+*.zip
+*.7z
+
